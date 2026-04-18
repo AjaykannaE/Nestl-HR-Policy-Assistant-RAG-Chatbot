@@ -75,7 +75,6 @@ Nestle-HR-Policy-RAG-Chatbot/
 |-- data/
 |   |-- nestle_hr_policy.pdf                # HR policy source document
 |-- README.md                               # Project documentation
-|-- requirements.txt                        # Dependencies
 ```
 
 ---
